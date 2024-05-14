@@ -1,0 +1,1 @@
+# bose-av35-homeassistant
